@@ -1,5 +1,6 @@
 Folder Structure:
 app/
+
 ├── Http/
 │   ├── Controllers/
 │   │   ├── AuthController.php         # login, register, logout
